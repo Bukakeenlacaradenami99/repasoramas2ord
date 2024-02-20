@@ -21,6 +21,13 @@ public class Cristian {
 
     }
 
+    public void dameFrase(String msg){
+
+
+        System.out.println(msg);
+
+    }
+
 
 
 
