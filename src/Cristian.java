@@ -12,6 +12,15 @@ public class Cristian {
 
     }
 
+    public void dameresta(int num, int num2){
+
+        int resultado=num-num2;
+        System.out.println(resultado);
+
+
+
+    }
+
 
 
 
