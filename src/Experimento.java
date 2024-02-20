@@ -8,4 +8,12 @@ public void dameMultiplicacion(int num, int num2){
 
 }
 
+public void damedivision(float num, float num2){
+
+    float resultado=num/num2;
+    System.out.println(resultado);
+
+
+}
+
 }
